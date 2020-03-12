@@ -1,0 +1,16 @@
+{
+    "name": "gameboyjs",
+    "files": [
+        "README.md",
+        "package.json",
+        "main.blocks",
+        "main.ts"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
